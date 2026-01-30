@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-top.svg" alt="GitHub Contribution Snake Top" />
+  <img src="https://raw.githubusercontent.com/xToguia/xToguia/output/github-contribution-grid-snake-top.svg" alt="GitHub Contribution Snake Top" />
 </div>
 ### 📜 O Caminho do Guerreiro
 
@@ -69,7 +69,7 @@ Minha jornada é focada em evolução constante. Atualmente aprimorando minhas t
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-bottom.svg" alt="GitHub Contribution Snake Bottom" />
+  <img src="https://raw.githubusercontent.com/xToguia/xToguia/output/github-contribution-grid-snake-bottom.svg" alt="GitHub Contribution Snake Bottom" />
 </div>
 ### 🏮 Aliança
 

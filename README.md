@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;Samurai+do+Front-end;Explorando+Game+Design;⛩️Bem-vindo+a+minha+Legião⛩️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;Guerreiro+do+Front-end;Explorando+Game+Design;Bem-vindo+ao+meu+Dojo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,13 +9,14 @@
   <h3>🥋 "A disciplina supera o talento. O código é minha honra."</h3>
 </div>
 
-<br>
-
 <div align="center">
   ______________________________________________________________________
   <br><br>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-top.svg" alt="GitHub Contribution Snake Top" />
+</div>
 ### 📜 O Caminho do Guerreiro
 
 Minha jornada é focada em evolução constante. Atualmente aprimorando minhas técnicas de desenvolvimento e criando novos mundos através dos jogos.
@@ -62,13 +63,14 @@ Minha jornada é focada em evolução constante. Atualmente aprimorando minhas t
 
 </div>
 
-<br>
-
 <div align="center">
   ______________________________________________________________________
   <br><br>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-bottom.svg" alt="GitHub Contribution Snake Bottom" />
+</div>
 ### 🏮 Aliança
 
 <div align="center">

@@ -1,22 +1,11 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;Guerreiro+do+Front-end;Explorando+Game+Design;Bem-vindo+ao+meu+Dojo" alt="Typing SVG" />
-  </a>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=250&section=header&text=Thiago&fontSize=80&fontAlign=50&fontColor=ffffff&desc=Samurai%20Dev%20%7C%20Game%20Designer&descSize=25&descAlign=50&descAlignY=65)
 
 <div align="center">
-  <br>
   <h3>🥋 "A disciplina supera o talento. O código é minha honra."</h3>
 </div>
 
-<div align="center">
-  ______________________________________________________________________
-  <br><br>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xToguia/xToguia/output/github-contribution-grid-snake-top.svg" alt="GitHub Contribution Snake Top" />
-</div>
 ### 📜 O Caminho do Guerreiro
 
 Minha jornada é focada em evolução constante. Atualmente aprimorando minhas técnicas de desenvolvimento e criando novos mundos através dos jogos.
@@ -63,14 +52,8 @@ Minha jornada é focada em evolução constante. Atualmente aprimorando minhas t
 
 </div>
 
-<div align="center">
-  ______________________________________________________________________
-  <br><br>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xToguia/xToguia/output/github-contribution-grid-snake-bottom.svg" alt="GitHub Contribution Snake Bottom" />
-</div>
 ### 🏮 Aliança
 
 <div align="center">
@@ -81,3 +64,5 @@ Minha jornada é focada em evolução constante. Atualmente aprimorando minhas t
     <img src="https://img.shields.io/badge/Email-Contato-D1282E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=150&section=footer)

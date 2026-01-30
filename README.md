@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;O+Samurai+do+C%C3%B3digo;Disciplina+%26+Inova%C3%A7%C3%A3o;Bem-vindo+ao+meu+Dojo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;Guerreiro+do+Front-end;Explorando+Game+Design;Bem-vindo+ao+meu+Dojo" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <h3>🥋 "O código é a minha lâmina, a lógica é o meu escudo."</h3>
+  <h3>🥋 "A disciplina supera o talento. O código é minha honra."</h3>
 </div>
 
 <br>
@@ -16,60 +16,66 @@
   <br><br>
 </div>
 
-### 📜 Sobre o Guerreiro
+### 📜 O Caminho do Guerreiro
 
-Sigo o caminho do desenvolvedor com honra e disciplina. Busco a perfeição em cada commit e a eficiência em cada algoritmo.
+Minha jornada é focada em evolução constante. Atualmente aprimorando minhas técnicas de desenvolvimento e criando novos mundos através dos jogos.
 
-- 🏯 **Dojo Atual:** Trabalhando em projetos desafiadores.
-- 🗡️ **Afiando a Lâmina:** Estudando novas arquiteturas e Clean Code.
-- ⛩️ **Missão:** Criar soluções que resistam ao teste do tempo.
-
----
-
-### ⚔️ Arsenal (Tech Stack)
-
-<div align="center">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-<br>
+- 🏯 **Dojo Atual:** Estudando no **SENAI Shunji Nishimura de Pompeia**.
+- 🏹 **Nova Arte:** Dedicado aos estudos de **Game Design**.
+- 🗡️ **Missão:** Dominar o Full Stack e criar experiências imersivas.
 
 ---
 
-### 👺 Estatísticas de Batalha
+### ⚔️ Arsenal (Tecnologias)
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
+
+  <h4>Lâminas Principais</h4>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-  <a href="https://github.com/SEU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <br><br>
+
+  <h4>Estilos de Combate (Frameworks)</h4>
+  <img align="center" alt="NextJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Ionic" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  
+  <br><br>
+
+  <h4>Ferramentas & Estratégia</h4>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Notion" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+
+  <br><br>
+
+  <h4>Criação de Mundos</h4>
+  <a href="https://www.roblox.com/">
+    <img src="https://img.shields.io/badge/ROBLOX-Game%20Dev-red?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&margin-w=15" />
-  </a>
+  ______________________________________________________________________
+  <br><br>
 </div>
-
----
 
 ### 🏮 Aliança
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Honra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contato-D1282E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>

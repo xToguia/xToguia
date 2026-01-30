@@ -1,4 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=250&section=header&text=Thiago&fontSize=80&fontAlign=50&fontColor=ffffff&desc=Samurai%20Dev%20%7C%20Game%20Designer&descSize=25&descAlign=50&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=120&section=header)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Thiago;Samurai+do+C%C3%B3digo;Game+Designer+em+Evolu%C3%A7%C3%A3o;Bem-vindo+ao+meu+Dojo" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <h3>🥋 "A disciplina supera o talento. O código é minha honra."</h3>
@@ -65,4 +71,4 @@ Minha jornada é focada em evolução constante. Atualmente aprimorando minhas t
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:D1282E,60:FF99CC,100:FFE4E1&height=120&section=footer)

@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:420000,50:8B0000,100:DC143C&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=D1282E&height=120&section=header)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Thiago;Samurai+Dev;Game+Designer+em+Forma%C3%A7%C3%A3o;Bem-vindo+ao+Dojo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Thiago;Samurai+Dev;Game+Designer+em+Forma%C3%A7%C3%A3o;Bem-vindo+ao+Dojo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,6 +43,7 @@ Minha espada é a lógica e meu escudo é a criatividade. Sigo aprimorando minha
   <img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img style="margin: 10px" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <a href="https://www.roblox.com/">
     <img style="margin: 10px" src="https://img.shields.io/badge/ROBLOX_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
@@ -63,4 +64,4 @@ Minha espada é a lógica e meu escudo é a criatividade. Sigo aprimorando minha
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:420000,50:8B0000,100:DC143C&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=D1282E&height=120&section=footer)

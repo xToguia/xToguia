@@ -75,7 +75,7 @@ Status:   🔥 Ativo e evoluindo
 
 ---
 
-## 🏮 Aliança — 同盟
+## 🏮 Legião — 同盟
 
 <div align="center">
 

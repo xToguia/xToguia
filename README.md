@@ -64,7 +64,7 @@ Status:   🔥 Ativo e evoluindo
 
 ---
 
-## 🤝 Aliados — 同士
+## 🤝 𝙰𝚕𝚒𝚊𝚍𝚘𝚜 — 同士
 
 <div align="center">
 

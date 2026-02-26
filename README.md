@@ -58,19 +58,6 @@ Status:   🔥 Ativo e evoluindo
 
 ---
 
-## 📊 Registros de Batalha — 戦記
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=D1282E&title_color=D1282E&icon_color=D1282E&text_color=ffffff&bg_color=0d1117" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=dark&border_color=D1282E&title_color=D1282E&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xToguia&theme=dark&border=D1282E&stroke=D1282E&ring=D1282E&fire=ff6b35&currStreakLabel=D1282E&background=0d1117&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
----
-
 ## 🏯 Atividade — 活動
 
 <div align="center">

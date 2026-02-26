@@ -1,16 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%E4%B8%96%E7%95%8C%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B&fontSize=40&fontColor=D1282E&animation=fadeIn&fontAlignY=40&desc=Samurai%20Dev%20·%20Game%20Designer%20em%20Formação&descAlignY=62&descAlign=50&descColor=cccccc)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=D1282E&height=200&section=header&text=THIAGO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Samurai%20Dev%20·%20Game%20Designer%20em%20Formação&descAlignY=65&descAlign=50&descColor=ffffff)
 
 <div align="center">
-
-```
-     ╔══════════════════════════════════════════╗
-     ║                                          ║
-     ║        T  H  I  A  G  O                  ║
-     ║         ── Samurai Dev ──                ║
-     ║                                          ║
-     ║   "名誉あるコード — Código com Honra"     ║
-     ╚══════════════════════════════════════════╝
-```
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=620&lines=⛩️+Bem-vindo+ao+Dojo+de+THIAGO;🗡️+Samurai+do+Código;🎮+Arquiteto+de+Mundos+Digitais;🌸+Forjado+no+SENAI+Pompeia;🔥+Onde+a+Lógica+encontra+a+Arte" alt="Typing SVG" />
@@ -19,8 +9,6 @@
 </div>
 
 ---
-
-<img align="right" width="320" src="https://media0.giphy.com/media/MRgwxC7iUsPAAMKHkW/giphy.gif" alt="Samurai de Fogo" />
 
 ## ⛩️ O Caminho — 道
 
@@ -40,9 +28,7 @@ Bushidō:  Código limpo · Criatividade · Persistência
 Status:   🔥 Ativo e evoluindo
 ```
 
-<br clear="right"/>
 
----
 
 ## ⚔️ Arsenal — 武器庫
 
@@ -147,4 +133,4 @@ Status:   🔥 Ativo e evoluindo
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=D1282E&height=120&section=footer&animation=fadeIn)

@@ -66,7 +66,7 @@ Status:   🔥 Ativo e evoluindo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&border=D1282E&stroke=D1282E&ring=D1282E&fire=ff6b35&currStreakLabel=D1282E&background=0d1117&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xToguia&theme=dark&border=D1282E&stroke=D1282E&ring=D1282E&fire=ff6b35&currStreakLabel=D1282E&background=0d1117&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ Status:   🔥 Ativo e evoluindo
 ## 🏯 Atividade — 活動
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=D1282E&line=D1282E&point=ffffff&area=true&area_color=D1282E&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xToguiaE&bg_color=0d1117&color=D1282E&line=D1282E&point=ffffff&area=true&area_color=D1282E&hide_border=true" />
 </div>
 
 ---

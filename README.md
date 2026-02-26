@@ -64,10 +64,18 @@ Status:   🔥 Ativo e evoluindo
 
 ---
 
-## 🏆 Honras de Guerra — 名誉
+## 🤝 Aliados — 同士
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=xToguia&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<a href="https://github.com/Thspli">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117" width="400" />
+</a>
+
+<a href="https://github.com/rafinha20010">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117" width="400" />
+</a>
+
 </div>
 
 ---
@@ -82,7 +90,7 @@ Status:   🔥 Ativo e evoluindo
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=D1282E&style=for-the-badge&label=訪問者)
+![Profile Views](https://komarev.com/ghpvc/?username=xToguia&color=D1282E&style=for-the-badge&label=訪問者)
 
 </div>
 

@@ -81,7 +81,7 @@ Status:   🔥 Ativo e evoluindo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-augusto-de-paula-silva-68921a324/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoaugusto142202@gmail.com)
-[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/search?keyword=Th11proiago0202)
+[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/pt/users/1621919496/profile?friendshipSourceType=PlayerSearch)
 
 <br>
 

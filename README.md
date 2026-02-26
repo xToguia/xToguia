@@ -95,7 +95,7 @@ Status:   🔥 Ativo e evoluindo
 
 ```
   ⛩️          🏮          ⛩️          🏮          ⛩️
-       "武士道 — O caminho do guerreiro nunca termina"
+     "武士道 — O caminho do guerreiro nunca termina"
   🏮          ⛩️          🏮          ⛩️          🏮
 ```
 

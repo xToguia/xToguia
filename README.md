@@ -59,7 +59,7 @@ Status:   🔥 Ativo e evoluindo
 ## 🏯 Atividade — 活動
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xToguiaE&bg_color=0d1117&color=D1282E&line=D1282E&point=ffffff&area=true&area_color=D1282E&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xToguia&bg_color=0d1117&color=D1282E&line=D1282E&point=ffffff&area=true&area_color=D1282E&hide_border=true" />
 </div>
 
 ---

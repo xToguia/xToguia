@@ -33,11 +33,8 @@ Minha espada é a lógica e meu escudo é a criatividade. Sigo aprimorando minha
   <br>
 
   <img style="margin: 10px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br>
   <img style="margin: 10px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <br>
   <img style="margin: 10px" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <br>
   <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br>

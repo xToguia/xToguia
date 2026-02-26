@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+Dojo+de+THIAGO;Samurai+do+Codigo;Arquiteto+de+Mundos+Digitais;Forjado+no+SENAI+Pompeia;Onde+a+Logica+encontra+a+Arte" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=20&duration=3000&pause=1000&color=D1282E&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+Dojo;Samurai+do+Codigo;Arquiteto+de+Mundos+Digitais;Forjado+no+SENAI+Pompeia;Onde+a+Logica+encontra+a+Arte" alt="Typing SVG" />
 </a>
 
 </div>

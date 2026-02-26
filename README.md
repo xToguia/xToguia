@@ -68,13 +68,8 @@ Status:   🔥 Ativo e evoluindo
 
 <div align="center">
 
-<a href="https://github.com/Thspli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117" width="400" />
-</a>
-
-<a href="https://github.com/rafinha20010">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=D1282E&icon_color=D1282E&bg_color=0d1117" width="400" />
-</a>
+[![Thspli](https://img.shields.io/badge/Thspli-D1282E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thspli)
+[![rafinha20010](https://img.shields.io/badge/rafinha20010-D1282E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafinha20010)
 
 </div>
 

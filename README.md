@@ -85,7 +85,7 @@ Status:   🔥 Ativo e evoluindo
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=xToguia&color=D1282E&style=for-the-badge&label=訪問者)
+![Profile Views](https://komarev.com/ghpvc/?username=xToguia&color=D1282E&style=for-the-badge&label=Views)
 
 </div>
 

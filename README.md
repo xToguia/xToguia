@@ -20,7 +20,6 @@ Nome:     Thiago
 Classe:   Samurai Dev / Game Designer
 Dojo:     SENAI Shunji Nishimura — Pompeia/SP
 Nível:    Em constante ascensão ↑
-Foco:     Game Design & Full Stack Development
 Missão:   Criar mundos imersivos e código honrado
 Bushidō:  Código limpo · Criatividade · Persistência
 Status:   🔥 Ativo e evoluindo
@@ -38,7 +37,6 @@ Status:   🔥 Ativo e evoluindo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### ⚙️ 𝙱𝚊𝚌𝚔-𝙴𝚗𝚍 & 𝙳𝚊𝚍𝚘𝚜
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,7 +48,6 @@ Status:   🔥 Ativo e evoluindo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 </div>
 
@@ -81,7 +78,6 @@ Status:   🔥 Ativo e evoluindo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-augusto-de-paula-silva-68921a324/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoaugusto142202@gmail.com)
-[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/pt/users/1621919496/profile?friendshipSourceType=PlayerSearch)
 
 <br>
 

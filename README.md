@@ -16,8 +16,8 @@ Empunho a **lógica** como katana e uso a **criatividade** como armadura.
 Forjado no calor da batalha entre pixels e algoritmos, minha missão é criar experiências que transcendem o comum.
 
 ```yaml
-Nome:     Thiago
-Classe:   Samurai Dev / Game Designer
+Nome:     Thiago Augusto de Paula Silva
+Classe:   Samurai Dev / Designer
 Dojo:     SENAI Shunji Nishimura — Pompeia/SP
 Nível:    Em constante ascensão ↑
 Missão:   Criar mundos imersivos e código honrado
